@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "nome": "João Silva",
+        "email": "joao.silva@example.com",
+        "frase": "A persistência é o caminho do êxito.",
+        "img_foto": "../img/p2.png"
+    },
+    {
+        "id": 2,
+        "nome": "Maria Oliveira",
+        "email": "maria.oliveira@example.com",
+        "frase": "O sucesso é a soma de pequenos esforços repetidos dia após dia.",
+        "img_foto": "../img/p1.png"
+    },
+    {
+        "id": 3,
+        "nome": "Carlos Santos",
+        "email": "carlos.santos@example.com",
+        "frase": "Acredite em si próprio e chegará um dia em que os outros não terão outra escolha senão acreditar com você.",
+        "img_foto": "../img/p6.png"
+    },
+    {
+        "id": 4,
+        "nome": "Ana Costa",
+        "email": "ana.costa@example.com",
+        "frase": "A única maneira de fazer um bom trabalho é amar o que você faz.",
+        "img_foto": "../img/p4.png"
+    },
+    {
+        "id": 5,
+        "nome": "Julia Ferreira",
+        "email": "ju.ferreira@example.com",
+        "frase": "O único lugar onde o sucesso vem antes do trabalho é no dicionário.",
+        "img_foto": "../img/p5.png"
+    },
+    {
+        "id":6,
+        "nome": "Cassandra Austin",
+        "email": "cassia@mail.com",
+        "frase": "Lorem ipsum",
+        "img_foto": "../img/p3.png"
+    }
+
+    
+]
